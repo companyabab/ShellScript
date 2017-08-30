@@ -1,4 +1,5 @@
 #! /bin/bash
+#@ authour Dhanunjaya Tokala
 
 # Check the bash shell script is being run by root or not
 
