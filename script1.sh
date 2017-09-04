@@ -1,3 +1,2 @@
 #! /bin/bash
-ls 
-touch file1
+ls
